@@ -48,14 +48,14 @@ section {
 
 .heading span {
   text-transform: uppercase;
-  color:  rgb(207, 57, 57);
+  color:  crimson;
 }
 
 .btn {
   display: inline-block;
   margin-top: 1rem;
   border-radius: 5rem;
-  background: rgb(207, 57, 57);
+  background: crimson;
   padding: .7rem;
   font-size: 1.7rem;
   color: #fff;
@@ -69,7 +69,7 @@ section {
   font-size: 1.7rem;
   text-align: center;
   background: #fff;
-  color: rgb(207, 57, 57);
+  color: crimson;
   border-radius: 50%;
   margin-left: 1rem;
   -webkit-transition: .2s linear;
@@ -108,12 +108,12 @@ section {
 }
 
 .navbar a i {
-  color: rgb(207, 57, 57);
+  color: crimson;
   padding-right: .5rem;
 }
 
 .navbar a:hover {
-  background:  rgb(207, 57, 57);
+  background:  crimson;
   padding-bottom: 6rem;
 }
 
@@ -165,7 +165,7 @@ border: 0px groove #bd7176;
 
 .home .content span {
   font-size: 3rem;
-  color:  rgb(163, 19, 19);
+  color:  crimson;
   padding: .5rem 0;
   display: block;
 }
@@ -327,7 +327,7 @@ h3 {
   line-height: 4.5rem;
   font-size: 1.5rem;
   border-radius: 50%;
-  background:  rgb(163, 19, 19);
+  background:  crimson;
   color: #fff;
   text-align: center;
   position: absolute;
@@ -384,7 +384,7 @@ h3 {
   line-height: 4.5rem;
   font-size: 1.7rem;
   border-radius: 50%;
-  background:  rgb(163, 19, 19);
+  background:  crimson;
   color: #fff;
   text-align: center;
   position: absolute;
@@ -469,7 +469,7 @@ h3 {
 
 .contact .row .info-container .box-container .box i {
   font-size: 3rem;
-  color:  rgb(163, 19, 19);
+  color:  crimson;
 }
 
 .contact .row .info-container .box-container .box h3 {
@@ -506,7 +506,7 @@ h3 {
   padding-right: 0; 
 }
 .social ul li {
-  border: 5px solid rgb(163, 19, 19);
+  border: 5px solid crimson;
   border-radius: 50%;
    float: right;
    position: relative;
