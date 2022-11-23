@@ -195,30 +195,41 @@ border: 0px groove #bd7176;
           flex: 1 1 42rem;
 } */
 
-/* .about .row .info-container h1 {
+
+.about .row .info-container h1 {
   font-size: 3rem;
   color: #fff;
-  /* text-transform: uppercase; */
-  /* padding-bottom: 1rem;
-} */
+}
 
-/* .about .row .info-container .box-container {
+.about .row .info-container .box-container {
   padding: 1rem 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  gap: 2rem;
+  gap: 6rem;
 }
+
 
 .about .row .info-container .box-container .box {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 20rem;
           flex: 1 1 20rem;
-} */
+} 
 
-/* .about .row .info-container .box-container .box h3 {
+.about .row .info-container .box-container .box h3 {
+  font-size: 1.7rem;
+  color: #fff;
+  padding: 1rem 0;
+  font-weight: normal;
+} 
+
+ .about .row .info-container .box-container .box h3 span {
+  color: #aaa;
+  font-weight: lighter;
+} 
+x h3 {
   font-size: 1.7rem;
   color: #fff;
   padding: 1rem 0;
@@ -229,17 +240,7 @@ border: 0px groove #bd7176;
   color: #aaa;
   font-weight: lighter;
 } */
-
-/* .about .row .count-container {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 42rem;
-          flex: 1 1 42rem;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  gap: 2rem;
+rem;
 } */
 
 .about .row .count-container .box {
