@@ -274,14 +274,14 @@ h3 {
 .skills .box-container .box {
   padding: 2rem;
   text-align: center;
-  -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
-          box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0 0.5rem 1rem rgba(194, 50, 50, 0.7);
+          box-shadow: 0 0.5rem 1rem rgba(160, 48, 48, 0.7);
   border-radius: .5rem;
-  background: #1a1a1a;
+  background: #598b8b;
 }
 
 .skills .box-container .box:hover {
-  background: #fff;
+  background: rgb(175, 63, 63);
 }
 
 .skills .box-container .box:hover h3 {
