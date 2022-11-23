@@ -30,7 +30,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-  background: #151515;
+  background: #598b8b;
   padding-bottom: 6.5rem;
 }
 
@@ -48,14 +48,14 @@ section {
 
 .heading span {
   text-transform: uppercase;
-  color:  rgb(163, 19, 19);
+  color:  rgb(207, 57, 57);
 }
 
 .btn {
   display: inline-block;
   margin-top: 1rem;
   border-radius: 5rem;
-  background:  rgb(163, 19, 19);
+  background: rgb(207, 57, 57);
   padding: .7rem;
   font-size: 1.7rem;
   color: #fff;
@@ -69,7 +69,7 @@ section {
   font-size: 1.7rem;
   text-align: center;
   background: #fff;
-  color:  rgb(163, 19, 19);
+  color: rgb(207, 57, 57);
   border-radius: 50%;
   margin-left: 1rem;
   -webkit-transition: .2s linear;
@@ -97,7 +97,7 @@ section {
 .navbar a {
   padding: 2rem;
   font-size: 2rem;
-  background: #1a1a1a;
+  background: #ADB8B8;
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
@@ -108,12 +108,12 @@ section {
 }
 
 .navbar a i {
-  color:  rgb(163, 19, 19);
+  color: rgb(207, 57, 57);
   padding-right: .5rem;
 }
 
 .navbar a:hover {
-  background:  rgb(163, 19, 19);
+  background:  rgb(207, 57, 57);
   padding-bottom: 6rem;
 }
 
