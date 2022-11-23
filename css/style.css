@@ -172,7 +172,7 @@ border: 0px groove #bd7176;
 
 .home .content p {
   font-size: 1.5rem;
-  color: #aaa;
+  color: black;
   padding: 1rem 0;
   line-height: 2;
 }
@@ -226,7 +226,7 @@ border: 0px groove #bd7176;
 } 
 
  .about .row .info-container .box-container .box h3 span {
-  color: #aaa;
+  color: black;
   font-weight: lighter;
 } 
 h3 {
@@ -260,7 +260,7 @@ h3 {
 
 .about .row .count-container .box p {
   font-size: 2rem;
-  color: #aaa;
+  color: black;
 }
 
 .skills .box-container {
@@ -317,7 +317,7 @@ h3 {
   padding-bottom: 0;
   padding-left: 3.5rem;
   padding-bottom: 3rem;
-  border-left: 0.1rem solid #aaa;
+  border-left: 0.1rem solid black;
   position: relative;
 }
 
@@ -337,7 +337,7 @@ h3 {
 
 .education .box-container .box span {
   font-size: 1.7rem;
-  color: #fff;
+  color: black;
   border-radius: 5rem;
   padding: .5rem 1.5rem;
   background: crimson;
@@ -346,14 +346,14 @@ h3 {
 .education .box-container .box h3 {
   font-size: 2rem;
   padding: 1rem 0;
-  color: #fff;
+  color: black;
   padding-top: 3rem;
   font-weight: normal;
 }
 
 .education .box-container .box p {
   font-size: 1.5rem;
-  color: #aaa;
+  color: black;
   line-height: 2;
 }
 
@@ -375,7 +375,7 @@ h3 {
   padding-bottom: 0;
   padding-left: 3.5rem;
   padding-bottom: 3rem;
-  border-left: 0.1rem solid #aaa;
+  border-left: 0.1rem solid black;
   position: relative;
 }
 .experinced .box-container .box i {
@@ -408,13 +408,13 @@ h3 {
 
 .experinced .box-container .box p {
   font-size: 1.5rem;
-  color: #aaa;
+  color: black;
   line-height: 2;
 }
 .experinced  .box   ul {
   padding-left: 20px;
   font-size: 1.5rem;
-  color: #aaa;
+  color:black;
   line-height: 2; 
   
 }
@@ -443,14 +443,14 @@ h3 {
 .contact .row .info-container h1 {
   font-size: 3rem;
   text-transform: uppercase;
-  color: #fff;
+  color: black;
   padding-bottom: 1rem;
 }
 
 .contact .row .info-container p {
   font-size: 1.5rem;
   line-height: 2;
-  color: #aaa;
+  color: black;
   padding: 1rem 0;
 }
 
@@ -474,7 +474,7 @@ h3 {
 
 .contact .row .info-container .box-container .box h3 {
   font-size: 2rem;
-  color: #fff;
+  color: black;
   
 }
 .row
@@ -707,11 +707,11 @@ h3 {
 }
 .k2t-footer.dark-style .social li a,
 .dark-style .social li a {
-  color: #fff;
+  color: black;
 }
 .k2t-footer.dark-style .social li a:hover,
 .dark-style .social li a:hover {
-  color: #fff;
+  color: black;
 }
 .basr-social-share.social li:hover a {
   color: #898989;
