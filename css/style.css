@@ -208,7 +208,7 @@ border: 0px groove #bd7176;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  gap: 6rem;
+  gap: 8rem;
 }
 
 
@@ -229,19 +229,18 @@ border: 0px groove #bd7176;
   color: #aaa;
   font-weight: lighter;
 } 
-x h3 {
+h3 {
   font-size: 1.7rem;
   color: #fff;
   padding: 1rem 0;
   font-weight: normal;
-} */
+} 
 
 /* .about .row .info-container .box-container .box h3 span {
   color: #aaa;
   font-weight: lighter;
 } */
-rem;
-} */
+
 
 .about .row .count-container .box {
   -webkit-box-flex: 1;
@@ -257,7 +256,7 @@ rem;
 .about .row .count-container .box h3 {
   font-size: 5rem;
   color: crimson;
-} */
+} 
 
 .about .row .count-container .box p {
   font-size: 2rem;
