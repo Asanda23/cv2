@@ -546,15 +546,6 @@ border: 0px groove #bd7176;
   color: #0d0d0d;
 } */
 
-@media (max-width: 1200px) {
-  html {
-    font-size: 55%;
-  }
-  section {
-    padding: 3rem 2rem;
-  }
-}
-
 @media (max-width: 768px) {
   .heading {
     font-size: 12vw;
