@@ -41,7 +41,7 @@ section {
 .heading {
   text-align: center;
   font-size: 6vw;
-  color: #fff;
+  color: black;
   margin-bottom: 3rem;
   text-transform: uppercase;
 }
@@ -58,7 +58,7 @@ section {
   background: crimson;
   padding: .7rem;
   font-size: 1.7rem;
-  color: #fff;
+  color: black;
   padding-left: 2rem;
 }
 
@@ -68,7 +68,7 @@ section {
   line-height: 4rem;
   font-size: 1.7rem;
   text-align: center;
-  background: #fff;
+  background: black;
   color: crimson;
   border-radius: 50%;
   margin-left: 1rem;
@@ -101,7 +101,7 @@ section {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  color: #fff;
+  color: black;
   text-align: center;
   -webkit-transition: .2s linear;
   transition: .2s linear;
@@ -158,7 +158,7 @@ border: 0px groove #bd7176;
 }
 
 .home .content h3 {
-  color: #fff;
+  color: black;
   font-size: 4rem;
   padding-bottom: .5rem;
 }
@@ -198,7 +198,7 @@ border: 0px groove #bd7176;
 
 .about .row .info-container h1 {
   font-size: 3rem;
-  color: #fff;
+  color: black;
 }
 
 .about .row .info-container .box-container {
@@ -220,7 +220,7 @@ border: 0px groove #bd7176;
 
 .about .row .info-container .box-container .box h3 {
   font-size: 1.7rem;
-  color: #fff;
+  color: black;
   padding: 1rem 0;
   font-weight: normal;
 } 
@@ -231,7 +231,7 @@ border: 0px groove #bd7176;
 } 
 h3 {
   font-size: 1.7rem;
-  color: #fff;
+  color: black;
   padding: 1rem 0;
   font-weight: normal;
 } 
@@ -294,7 +294,7 @@ h3 {
 }
 
 .skills .box-container .box h3 {
-  color: #fff;
+  color: black;
   font-size: 1.7rem;
   font-weight: normal;
   text-transform: uppercase;
@@ -328,7 +328,7 @@ h3 {
   font-size: 1.5rem;
   border-radius: 50%;
   background:  crimson;
-  color: #fff;
+  color: black;
   text-align: center;
   position: absolute;
   top: -1rem;
@@ -340,7 +340,7 @@ h3 {
   color: #fff;
   border-radius: 5rem;
   padding: .5rem 1.5rem;
-  background: #1a1a1a;
+  background: crimson;
 }
 
 .education .box-container .box h3 {
@@ -385,7 +385,7 @@ h3 {
   font-size: 1.7rem;
   border-radius: 50%;
   background:  crimson;
-  color: #fff;
+  color: black;
   text-align: center;
   position: absolute;
   top: -1rem;
@@ -393,15 +393,15 @@ h3 {
 }
 .experinced .box-container .box span {
   font-size: 1.7rem;
-  color: #fff;
+  color:black;
   border-radius: 5rem;
   padding: .5rem 1.5rem;
-  background: #1a1a1a;
+  background:crimson;
 }
 .experinced  .box-container .box h3 {
   font-size: 2rem;
   padding: 1rem 0;
-  color: #fff;
+  color: black;
   padding-top: 3rem;
   font-weight: normal;
 }
