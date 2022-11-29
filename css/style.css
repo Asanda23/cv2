@@ -25,7 +25,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: rgb(163, 19, 19);
+  background: red;
   border-radius: 5rem;
 }
 
@@ -48,14 +48,14 @@ section {
 
 .heading span {
   text-transform: uppercase;
-  color:  crimson;
+  color:  palevioletred;
 }
 
 .btn {
   display: inline-block;
   margin-top: 1rem;
   border-radius: 5rem;
-  background: crimson;
+  background: palevioletred;
   padding: .7rem;
   font-size: 1.7rem;
   color: black;
@@ -69,7 +69,7 @@ section {
   font-size: 1.7rem;
   text-align: center;
   background: black;
-  color: crimson;
+  color: palevioletred;
   border-radius: 50%;
   margin-left: 1rem;
   -webkit-transition: .2s linear;
@@ -108,12 +108,12 @@ section {
 }
 
 .navbar a i {
-  color: crimson;
+  color: palevioletred;
   padding-right: .5rem;
 }
 
 .navbar a:hover {
-  background:  crimson;
+  background:  palevioletred;
   padding-bottom: 6rem;
 }
 
@@ -165,7 +165,7 @@ border: 0px groove #bd7176;
 
 .home .content span {
   font-size: 3rem;
-  color:  crimson;
+  color:  palevioletred;
   padding: .5rem 0;
   display: block;
 }
@@ -255,7 +255,7 @@ h3 {
 
 .about .row .count-container .box h3 {
   font-size: 5rem;
-  color: crimson;
+  color: palevioletred;
 } 
 
 .about .row .count-container .box p {
@@ -281,7 +281,7 @@ h3 {
 }
 
 .skills .box-container .box:hover {
-  background: rgb(175, 63, 63);
+  background: palevioletred;
 }
 
 .skills .box-container .box:hover h3 {
@@ -327,7 +327,7 @@ h3 {
   line-height: 4.5rem;
   font-size: 1.5rem;
   border-radius: 50%;
-  background:  crimson;
+  background:  palevioletred;
   color: black;
   text-align: center;
   position: absolute;
@@ -340,7 +340,7 @@ h3 {
   color: black;
   border-radius: 5rem;
   padding: .5rem 1.5rem;
-  background: crimson;
+  background: palevioletred;
 }
 
 .education .box-container .box h3 {
@@ -384,7 +384,7 @@ h3 {
   line-height: 4.5rem;
   font-size: 1.7rem;
   border-radius: 50%;
-  background:  crimson;
+  background:  palevioletred;
   color: black;
   text-align: center;
   position: absolute;
@@ -396,7 +396,7 @@ h3 {
   color:black;
   border-radius: 5rem;
   padding: .5rem 1.5rem;
-  background:crimson;
+  background: palevioletred;
 }
 .experinced  .box-container .box h3 {
   font-size: 2rem;
@@ -468,8 +468,8 @@ h3 {
 }
 
 .contact .row .info-container .box-container .box i {
-  font-size: 2rem;
-  color:  crimson;
+  font-size: 3rem;
+  color:  palevioletred;
 }
 
 .contact .row .info-container .box-container .box h3 {
